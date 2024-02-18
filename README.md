@@ -1,7 +1,7 @@
 👋 Hi, I’m Fırat Cihan
-I’m currently study in Pirireis University.
+I’m currently studying in Pirireis University.
 
-I’m interested in coding/programing and workout.
+I’m interested in coding/programming and workout.
 
 I mainly use Python.
 
